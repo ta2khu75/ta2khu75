@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Đây là một vài thống kê GitHub của mình:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ta2khu75&layout=compact&langs_count=8&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ta2khu75&show_icons=true&theme=dark)
 <!--
 **ta2khu75/ta2khu75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
