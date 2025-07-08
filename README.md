@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Đây là một vài thống kê GitHub của mình:
+Here are some of my GitHub statistics:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ta2khu75&layout=compact&langs_count=8&theme=dark)
 
